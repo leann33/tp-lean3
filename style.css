@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    /* background-image: url(/pexels-lidia-miralles-16968296.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom; */
+    background-color: #122c50;
+}
+
+
+
+
+ul, ol {
+    list-style-type: none;
+}
+
+header {
+    color: #fff;
+}
+
+main {
+    /* background-color: coral; */
+    /* width: 80%; */
+    margin: 0 auto; /* esto centra divs que tengan ancho definido */
+    text-align: center;
+    background-color: gray;
+   
+}
+
+.mainn{
+    background-color: black;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+
+
+
+footer {
+    background-color: #E5EBEA;
+    font-size: 20px;
+    border-radius: 2px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.social {
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section{
+    background-color: white;
+    font-size: 15px;
+    text-align: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.carousel img{
+    border-radius: 10px;
+}
+
+.container-fluid {
+    /* padding: 0; */
+}
+
+
+.tarjeta {
+    background-color: #E5EBEA;
+    /* margin: 5px 0; */
+    padding: 20px;
+    border-radius: 2px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tarjeta img{
+    width: 100%;
+}
+
+
+
+.navbar {
+    background-color: rgb(143, 186, 243);
+    
+    
+    
+}
+
+.nav-link{
+    color: #fff;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+
+.navbar-brand{
+    color: white;
+}
+
+h4{
+    color: black;
+    font-size: 30px;
+}
+
+i{
+    color:#122c50;
+}
+
+.uno{
+    color: #122c50;
+
+}
